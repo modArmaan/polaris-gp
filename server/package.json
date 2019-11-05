@@ -1,0 +1,15 @@
+{
+  "name": "polaris-promotion-system",
+  "version": "1.0.0",
+  "description": "The Polaris promotion system provides the server side of polaris promotion centres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neztore",
+  "license": "ISC",
+  "dependencies": {
+    "bloxy": "^2.9.906",
+    "express": "^4.16.4"
+  }
+}

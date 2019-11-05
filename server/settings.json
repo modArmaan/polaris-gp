@@ -1,0 +1,11 @@
+{
+  "centres": {
+    "nemzy-1": {
+      "auth": [""],
+      "groups": [""]
+    },
+  "securityToken": "",
+  "port": 40,
+  "user": "",
+  "pass": ""
+}
