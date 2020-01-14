@@ -2,8 +2,15 @@
 
 # About
 This is the Open source repository for our Group promotion system.
-At this point, this is the most basic version. We'll be adding the server, docs and easier configuration at a later date. This is more or less a "source dump".
+It allows you to promote users to various ranks based o their rank in 'sub groups', for example departments.
+Examples are included in the examples directory.
 
-You can check out the Module under the `source` directory
+# How to use
+You will need to run the server on a VPS or something like Glitch. Then you can either take the code from the `source` directory, or alternatively make use of an example game from the `examples` folder.
+
+You can check out the Module under the `source` directory. 
 ## How did you export a Roblox model?
 I used the tiny module [rbx-export](https://github.com/Neztore/rbx-export), created by yours truly, which is available on NPM.
+
+# Getting help
+If you need help, join the [Polaris discord](https://discord.gg/QevWabU). You can get help with Bloxy [here](https://discord.gg/EDXNdAT).
