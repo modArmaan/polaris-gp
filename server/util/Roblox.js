@@ -5,8 +5,7 @@ const settings = require("../settings.json");
 const Bloxy = require("bloxy");
 
 const Roblox = new Bloxy({
-	username: settings.user,
-	password: settings.pass
+	cookie: settings.cookie
 });
 const login = new Promise(async function (resolve) {
 	Roblox.login();
