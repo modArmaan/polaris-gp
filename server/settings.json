@@ -1,11 +1,11 @@
 {
   "centres": {
     "nemzy-1": {
-      "auth": [""],
-      "groups": [""]
+      "auth": ["255"],
+      "groups": ["6306934"]
     },
-  "securityToken": "",
+  "securityToken": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3M2U4ZDE5Mi1kZDRkLTQ2ZDItOTIyZS05ZDVhNjliMmNkOGMiLCJzdWIiOjQxMzI0ODgwNH0.08BQFzzUIS0tQ8xfEcUnfqHu5ya8nQMqT3B-1jdRF0g",
   "port": 40,
-  "user": "",
-  "pass": ""
+  "user": "AvialisBot",
+  "pass": "armaaniscool123"
 }
